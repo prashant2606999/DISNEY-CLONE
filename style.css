@@ -53,3 +53,7 @@ body{
     align-items: center;
     justify-content: space-evenly;
 }
+.action-btn-cont i{
+    font-size: 2rem;
+    color: white;
+}
